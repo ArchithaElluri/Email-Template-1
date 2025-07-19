@@ -4,8 +4,11 @@ A responsive and reusable HTML email template designed for marketing campaigns, 
 Features:
 
 --> Responsive layout for mobile and desktop.
+
 --> Inline CSS for better email client compatibility.
+
 --> Clean and customizable structure.
+
 --> Tested with common email clients.
 
 Easily adaptable for various use cases like welcome emails, product updates, or promotional content.
